@@ -1,0 +1,12 @@
+C:\Users\mberk\source\repos\p11ChatApp\p11ChatApp\bin\Debug\p11ChatApp.exe.config
+C:\Users\mberk\source\repos\p11ChatApp\p11ChatApp\bin\Debug\p11ChatApp.exe
+C:\Users\mberk\source\repos\p11ChatApp\p11ChatApp\bin\Debug\p11ChatApp.pdb
+C:\Users\mberk\source\repos\p11ChatApp\p11ChatApp\obj\Debug\p11ChatApp.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p11ChatApp\p11ChatApp\obj\Debug\p11ChatApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p11ChatApp\p11ChatApp\obj\Debug\p11ChatApp.Form1.resources
+C:\Users\mberk\source\repos\p11ChatApp\p11ChatApp\obj\Debug\p11ChatApp.Properties.Resources.resources
+C:\Users\mberk\source\repos\p11ChatApp\p11ChatApp\obj\Debug\p11ChatApp.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p11ChatApp\p11ChatApp\obj\Debug\p11ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p11ChatApp\p11ChatApp\obj\Debug\p11ChatApp.exe
+C:\Users\mberk\source\repos\p11ChatApp\p11ChatApp\obj\Debug\p11ChatApp.pdb
+C:\Users\mberk\source\repos\p11ChatApp\p11ChatApp\obj\Debug\p11ChatApp.Form2.resources
